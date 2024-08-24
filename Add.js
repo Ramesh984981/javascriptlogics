@@ -12,3 +12,8 @@ console.log('The sub of',sub);
 const mul = num1 * num2
 
 console.log("mul",mul);
+
+
+const div = num1 / num2;
+
+console.log('The div of',div);
