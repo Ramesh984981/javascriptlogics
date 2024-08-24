@@ -1,8 +1,8 @@
 function isArmstrongNumber(num) {
-    // Convert the number to a string to easily iterate over each digit
+   
     const numStr = num.toString();
     
-    // Get the number of digits in the number
+
     const numDigits = numStr.length;
     
     // Initialize a sum variable to hold the sum of each digit raised to the power of numDigits
