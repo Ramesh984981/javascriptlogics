@@ -17,3 +17,5 @@ console.log("mul",mul);
 const div = num1 / num2;
 
 console.log('The div of',div);
+
+console.log("HEELLO GOOD NIGHT");
