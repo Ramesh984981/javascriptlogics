@@ -11,5 +11,6 @@ function isEven(num){
 
 } 
 
+const evenNumber = isEven(n)
 
-isEven(n)
+console.log("evennumber", evenNumber);
