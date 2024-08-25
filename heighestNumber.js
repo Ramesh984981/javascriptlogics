@@ -10,3 +10,6 @@ if(n1 > n2 && n1 > n3){
     console.log("heighest is", n3)
 }
 console.log("ramesh");
+
+
+console.log("srinu")
