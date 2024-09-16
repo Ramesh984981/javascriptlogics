@@ -1,4 +1,4 @@
-
+let n = 10;
 function isPrime(num) {
   if (num <= 1) return false; 
   if (num <= 3) return true; 
