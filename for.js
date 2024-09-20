@@ -22,6 +22,7 @@
 
 for (var i = 10; i > 2; i--) {
   if (i == 2) {
+    
     console.log("mahesh");
   } else {
     console.log("somesh");
