@@ -10,14 +10,23 @@
 
 
 
-for (var i = 0; i < 10; i++) {
-    if (i == 5) {
-      console.log("Suresh");
-    } else {
-      console.log("Ramesh");
-    }
-  }
+// for (var i = 0; i < 10; i++) {
+//     if (i == 5) {
+//       console.log("Suresh");
+//     } else {
+//       console.log("Ramesh");
+//     }
+//   }
 
+
+
+for (var i = 10; i > 2; i--) {
+  if (i == 2) {
+    console.log("mahesh");
+  } else {
+    console.log("somesh");
+  }
+}
 
 
 // Output:
