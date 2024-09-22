@@ -30,6 +30,32 @@ for (var i = 10; i > 2; i--) {
 }
 
 
+// for (var i=20;i>3;i++){
+//   if(i==3){
+//     console.log("laxma")
+//   }else{
+//     console.log("mahiraj");
+//   }
+// }
+
+var i = 20;
+
+while (i >= 3) {
+  if (i === 3) {
+    console.log("laxma");
+  } else {
+    console.log("mahiraj");
+  }
+  i--;
+}
+
+
+
+// the hello world program
+console.log('Hello World');
+
+
+
 // Output:
 // Hello, world!
 // Hello, world!
