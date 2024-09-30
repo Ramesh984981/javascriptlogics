@@ -13,3 +13,9 @@ console.log(...numbers1);
 
 
 
+let numbers2 = [4, 7, 9, 10];
+
+console.log(numbers2[0], numbers2[1], numbers2[2], numbers2[3]);
+console.log(...numbers2);
+
+
